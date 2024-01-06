@@ -1,20 +1,19 @@
-"""
-This is the template for knowledge_base.json
-"""
-
 {
-  "qa_pairs": [
-    {
-      "question": "Your Question Here",
-      "answer": "Your Answer Here"
-    },
-    {
-      "question": "Another Question",
-      "answer": "Another Answer"
-    },
-    {
-      "question": "Feel free to customize and add more QA pairs!",
-      "answer": "Your Custom Answer"
-    }
-  ]
+  "knowledge_base": {
+    "comment": "This is the template for knowledge_base.json",
+    "qa_pairs": [
+      {
+        "question": "Your Question Here",
+        "answer": "Your Answer Here"
+      },
+      {
+        "question": "Another Question",
+        "answer": "Another Answer"
+      },
+      {
+        "question": "Feel free to customize and add more QA pairs!",
+        "answer": "Your Custom Answer"
+      }
+    ]
+  }
 }
